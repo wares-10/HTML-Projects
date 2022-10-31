@@ -132,7 +132,7 @@ textarea {
 .sr-only.focusable:focus {
   clip: auto;
   height: auto;
-  margin: 0;
+  margin: 10px;
   overflow: visible;
   position: static;
   white-space: inherit;
